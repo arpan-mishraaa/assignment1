@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arpan\\Desktop\\assignment\\assignment-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE0A85-36C6-4648-90E0-D78E34502978}|assignment-1.csproj|c:\\users\\arpan\\desktop\\assignment\\assignment-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE0A85-36C6-4648-90E0-D78E34502978}|assignment-1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE0A85-36C6-4648-90E0-D78E34502978}|assignment-1.csproj|c:\\users\\arpan\\desktop\\assignment\\assignment-1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE0A85-36C6-4648-90E0-D78E34502978}|assignment-1.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE0A85-36C6-4648-90E0-D78E34502978}|assignment-1.csproj|c:\\users\\arpan\\desktop\\assignment\\assignment-1\\controllers\\otpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE0A85-36C6-4648-90E0-D78E34502978}|assignment-1.csproj|solutionrelative:controllers\\otpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE0A85-36C6-4648-90E0-D78E34502978}|assignment-1.csproj|c:\\users\\arpan\\desktop\\assignment\\assignment-1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE0A85-36C6-4648-90E0-D78E34502978}|assignment-1.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE0A85-36C6-4648-90E0-D78E34502978}|assignment-1.csproj|c:\\users\\arpan\\desktop\\assignment\\assignment-1\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE0A85-36C6-4648-90E0-D78E34502978}|assignment-1.csproj|solutionrelative:data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE0A85-36C6-4648-90E0-D78E34502978}|assignment-1.csproj|c:\\users\\arpan\\desktop\\assignment\\assignment-1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FDE0A85-36C6-4648-90E0-D78E34502978}|assignment-1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE0A85-36C6-4648-90E0-D78E34502978}|assignment-1.csproj|c:\\users\\arpan\\desktop\\assignment\\assignment-1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE0A85-36C6-4648-90E0-D78E34502978}|assignment-1.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE0A85-36C6-4648-90E0-D78E34502978}|assignment-1.csproj|c:\\users\\arpan\\desktop\\assignment\\assignment-1\\models\\otpverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE0A85-36C6-4648-90E0-D78E34502978}|assignment-1.csproj|solutionrelative:models\\otpverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE0A85-36C6-4648-90E0-D78E34502978}|assignment-1.csproj|c:\\users\\arpan\\desktop\\assignment\\assignment-1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE0A85-36C6-4648-90E0-D78E34502978}|assignment-1.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OtpController.cs",
+              "DocumentMoniker": "C:\\Users\\arpan\\Desktop\\assignment\\assignment-1\\Controllers\\OtpController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OtpController.cs",
+              "ToolTip": "C:\\Users\\arpan\\Desktop\\assignment\\assignment-1\\Controllers\\OtpController.cs",
+              "RelativeToolTip": "Controllers\\OtpController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:31:44.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\arpan\\Desktop\\assignment\\assignment-1\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\arpan\\Desktop\\assignment\\assignment-1\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T10:39:29.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\arpan\\Desktop\\assignment\\assignment-1\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\arpan\\Desktop\\assignment\\assignment-1\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T10:32:58.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\arpan\\Desktop\\assignment\\assignment-1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\arpan\\Desktop\\assignment\\assignment-1\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T08:46:30.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\arpan\\Desktop\\assignment\\assignment-1\\Data\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\arpan\\Desktop\\assignment\\assignment-1\\Data\\UserDbContext.cs",
+              "RelativeToolTip": "Data\\UserDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T08:45:48.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\arpan\\Desktop\\assignment\\assignment-1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\arpan\\Desktop\\assignment\\assignment-1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T08:32:40.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arpan\\Desktop\\assignment\\assignment-1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\arpan\\Desktop\\assignment\\assignment-1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T09:11:42.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\arpan\\Desktop\\assignment\\assignment-1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\arpan\\Desktop\\assignment\\assignment-1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-07T08:47:17.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OtpVerification.cs",
+              "DocumentMoniker": "C:\\Users\\arpan\\Desktop\\assignment\\assignment-1\\Models\\OtpVerification.cs",
+              "RelativeDocumentMoniker": "Models\\OtpVerification.cs",
+              "ToolTip": "C:\\Users\\arpan\\Desktop\\assignment\\assignment-1\\Models\\OtpVerification.cs",
+              "RelativeToolTip": "Models\\OtpVerification.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:30:32.262Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

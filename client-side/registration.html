@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Registration</title>
+    <link rel="stylesheet" href="registration.css">
+</head>
+<body>
+    <div class="container">
+        <h2>User Registration</h2>
+        <form id="registrationForm">
+            <div class="form-group">
+                <label for="uid">User ID:</label>
+                <input type="text" id="uid" name="uid" required>
+            </div>
+            <div class="form-group">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <button type="submit">Register</button>
+        </form>
+        <div id="message"></div>
+        <p><a href="login.html">Already registered? Login here</a></p>
+    </div>
+    <script src="registration.js"></script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Login</title>
+    <link rel="stylesheet" href="login.css">
+</head>
+<body>
+    <div class="container">
+        <h2>User Login</h2>
+        <form id="loginForm">
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <div class="form-group">
+                <label for="otp">OTP:</label>
+                <input type="text" id="otp" name="otp" required>
+            </div>
+            <div class="button-group">
+                <button type="button" id="generateOtpBtn">Generate OTP</button>
+                <button type="submit" id="loginBtn">Verify OTP & Login</button>
+            </div>
+        </form>
+        <div id="message"></div>
+        <p><a href="registration.html">Don't have an account? Register here</a></p>
+    </div>
+    <script src="login.js"></script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Management</title>
+    <link rel="stylesheet" href="employee.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h2>Employee Management</h2>
+            <button id="logoutBtn" class="logout-btn">Logout</button>
+        </div>
+        
+        <div class="employee-table">
+            <h3>Employee List</h3>
+            <table id="employeeTable">
+                <thead>
+                    <tr>
+                        <th>Employee ID</th>
+                        <th>Email</th>
+                        <th>Name</th>
+                        <th>Date of Birth</th>
+                        <th>Is Admin</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody id="employeeTableBody">
+                </tbody>
+            </table>
+        </div>
+        
+        <div class="employee-form">
+            <h3>Add/Update Employee</h3>
+            <form id="employeeForm">
+                <div class="form-group">
+                    <label for="empId">Employee ID:</label>
+                    <input type="number" id="empId" name="empId" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div class="form-group">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                <div class="form-group">
+                    <label for="dob">Date of Birth:</label>
+                    <input type="date" id="dob" name="dob" required>
+                </div>
+                <div class="form-group">
+                    <label for="isAdmin">Is Admin:</label>
+                    <input type="checkbox" id="isAdmin" name="isAdmin">
+                </div>
+                <div class="button-group">
+                    <button type="submit" id="addBtn">Add Employee</button>
+                    <button type="button" id="updateBtn" style="display:none;">Update Employee</button>
+                    <button type="button" id="cancelBtn" style="display:none;">Cancel</button>
+                </div>
+            </form>
+        </div>
+        
+        <div id="message"></div>
+    </div>
+    <script src="employee.js"></script>
+</body>
+</html>
